@@ -15,5 +15,5 @@
 1. three
 1. four
 
-![mon image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
+![mon image](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 [Mon fichier markdown](markdown.md)
