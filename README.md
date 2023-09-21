@@ -15,5 +15,6 @@
 1. three
 1. four
 
-![mon image](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png = 100x100)
+![mon image](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![mon gif](https://media.giphy.com/media/kyLYXonQYYfwYDIeZl/giphy.gif)
 [Mon fichier markdown](markdown.md)
