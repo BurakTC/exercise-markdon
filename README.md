@@ -21,6 +21,6 @@
 [Mon fichier markdown](markdown.md)
 
 
- ```js
+```js
    alert(Bienvenue !)
-    \```
+```
