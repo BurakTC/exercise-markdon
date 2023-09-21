@@ -17,4 +17,10 @@
 
 ![mon image](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 ![mon gif](https://media.giphy.com/media/kyLYXonQYYfwYDIeZl/giphy.gif)
+
 [Mon fichier markdown](markdown.md)
+
+
+ ```js
+   alert(Bienvenue !)
+    \```
