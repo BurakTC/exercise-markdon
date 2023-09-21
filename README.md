@@ -1,4 +1,14 @@
 # My readme file !
-## deuxieme titre
-### troisieme
+
+### My unordered list
+- one
+- two 
+- three
+- four
+
+### My ordered list
++ one
++ two
++ three
++ four
 
