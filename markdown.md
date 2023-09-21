@@ -22,7 +22,7 @@ It was created to be easy to read and write while allowing for straightforward c
 1.Extensions: While basic Markdown is simple, there are numerous Markdown implementations and extensions that add more advanced features such as tables, diagrams, mathematics, etc. These extensions often depend on the platform or editor you are using.
 
 ## Here are some examples of commonly used Markdown elements:
-# Heading: To create headings of different levels.
+- '#' Heading: To create headings of different levels.
 - * or -: To create unordered lists.
 - 1., 2., etc.: To create ordered lists.
 - "[Link Text](Link URL)": To create hyperlinks.
